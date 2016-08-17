@@ -11,6 +11,7 @@ public class Ejercicio3 {
 		ej.cargaArreglo();
 		ej.calculaMedia();
 		ej.calculaMediana();
+		ej.calculaModa();
 	}
 	
 	
@@ -53,7 +54,7 @@ public class Ejercicio3 {
 		System.out.println("¿Cuantos numeros desea buscar? ");
 		
 		
-		int arr01[] = {8,9,10};
+		//int arr01[] = {8,9,10};
 		
 		
 		for (int i = 0; i < arr0.length; i++) {

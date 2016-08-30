@@ -1,13 +1,13 @@
 package es.discoduroderoer;
 
-public class Ejercicio3 {
+public class EjercicioArray3 {
 
 	private int arr0[];
 	private int media = 0;
 	
 	
 	public static void main(String[] args) {
-		Ejercicio3 ej = new Ejercicio3();
+		EjercicioArray3 ej = new EjercicioArray3();
 		ej.cargaArreglo();
 		ej.calculaMedia();
 		ej.calculaMediana();
